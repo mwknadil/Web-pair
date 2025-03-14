@@ -100,7 +100,7 @@ router.get("/", async (req, res) => {
        𝐎𝐰𝐧𝐞𝐫👨‍💻 :- https://wa.me/+94740952053\n\n> 🐼🍓-𝐙𝐄𝐑𝐎𝐗-𝐌𝐃-🐼🍓`
             await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Nadilhansaja/---/refs/heads/main/IMG-20250311-WA0017.jpg",
+                url: "https://files.catbox.moe/aeuzl2.jpg",
               },
               caption: sid,
             });
