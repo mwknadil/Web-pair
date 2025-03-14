@@ -81,7 +81,9 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `🐼🍓-𝐙𝐄𝐑𝐎𝐗 𝐌𝐃-🐼❤️‍🩹 𝐁𝐎𝐓 𝐏𝐀𝐈𝐑\n\n*┏━━━━━━━━━━━━━━*
+            const sid = `🐼🍓-𝐙𝐄𝐑𝐎𝐗 𝐌𝐃-🐼❤️‍🩹 𝐁𝐎𝐓 𝐏𝐀𝐈𝐑
+
+*┏━━━━━━━━━━━━━━*
 *┃𝐙𝐄𝐑𝐎𝐗-𝐌𝐃 SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
@@ -92,7 +94,11 @@ router.get("/", async (req, res) => {
 *❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vb8n2cA9mrGioPDAcJ1W
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❸ || Owner =* https://wa.me/+94740952053
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ *➍ ||  Telegram =* https://t.me/+0Fu4_dlsBUMyOGE1
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+*❸ || Youtube =* https://www.youtube.com/@EXDEVILGAMING-FF
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *🧚‍♀️ᴄʀᴇᴀᴛᴇᴅ ʙʏ ©ᴍʀ ɴᴀᴅɪʟ🐼🍓*`;
             const mg = `*🍓🐼Do not share this code to anyone🍓🐼*
